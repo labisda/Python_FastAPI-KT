@@ -34,3 +34,19 @@ pip install -r requirements.txt
 ```
 uvicorn app:app --reload
 ```
+
+## References
+
+### Technologies Used
+
+<div align="center">
+
+| Technology | Description | Documentation |
+|------------|-------------|---------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | High-level programming language | [Python Official Docs](https://docs.python.org/) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | Modern, fast web framework for building APIs | [FastAPI Documentation](https://fastapi.tiangolo.com/) | |
+
+</div>
+
+- **Python**: [Official Documentation](https://docs.python.org/)
+- **FastAPI**: [Getting Started Guide](https://fastapi.tiangolo.com/)
