@@ -1,2 +1,5 @@
 uvicorn
 fastapi
+pyjwt[crypto]
+requests
+python-certifi-win32
